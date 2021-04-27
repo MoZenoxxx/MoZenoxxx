@@ -1,0 +1,3 @@
+- 👋 Hi, Ich bin @MoZenoxxx
+- 👀 Ich programmieren gerne Minecraft Plugins und Discord Bots
+- 📫 Du kannst mich erreichen ...
